@@ -11,9 +11,9 @@ export const services = [
 ];
 
 export const projects = [
-  { id: 'residencial', category: 'Residencial', title: 'Espaços para morar', direction: 'Inserir fotografia autorizada de um projeto residencial.', image: '', alt: '', tone: 'warm' },
-  { id: 'interiores', category: 'Interiores', title: 'Detalhes que acolhem', direction: 'Inserir fotografia autorizada de um projeto de interiores.', image: '', alt: '', tone: 'light' },
-  { id: 'comercial', category: 'Comercial', title: 'Ambientes que conectam', direction: 'Inserir fotografia autorizada de um projeto comercial.', image: '', alt: '', tone: 'dark' },
+  { id: 'residencial', category: 'Residencial', title: 'Espaços para morar', direction: 'Inserir fotografia autorizada de um projeto residencial.', image: '/images/projeto-residencial.webp', alt: 'Sala de estar de um projeto residencial', tone: 'warm' },
+  { id: 'interiores', category: 'Interiores', title: 'Detalhes que acolhem', direction: 'Inserir fotografia autorizada de um projeto de interiores.', image: '/images/projeto-interiores.webp', alt: 'Detalhe de um projeto de interiores', tone: 'light' },
+  { id: 'comercial', category: 'Comercial', title: 'Ambientes que conectam', direction: 'Inserir fotografia autorizada de um projeto comercial.', image: '/images/projeto-comercial.webp', alt: 'Ambiente de um projeto comercial', tone: 'dark' },
 ];
 
 export const faqs = [
